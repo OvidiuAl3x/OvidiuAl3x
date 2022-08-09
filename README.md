@@ -2,7 +2,7 @@
 - 👀 I’m interested in front-end developer.
 - 🌱 I’m currently learning javascript.
 - 📫 How to reach me: alexandruovidiu1999@gmail.com (my email)
-- 💻 My portfolio: https://ovidiual3x.github.io/portfolio/
+- 💻 My portfolio: https://ovidiual3x.github.io
 
 <!---
 OvidiuAl3x/OvidiuAl3x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
