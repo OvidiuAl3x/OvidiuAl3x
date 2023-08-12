@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ovidiu-Alex
 - 👀 I’m interested in front-end developer.
-- 🌱 I’m currently learning javascript.
+- 🌱 I’m currently learning react.
 - 📫 How to reach me: alexandruovidiu1999@gmail.com
 - 💻 My portfolio: https://ovidiual3x.github.io
 
