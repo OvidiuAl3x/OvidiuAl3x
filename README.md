@@ -60,7 +60,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/OvidiuAl3x/OvidiuAl3x/output/snake.svg" alt="Snake animation" />
-
-###
