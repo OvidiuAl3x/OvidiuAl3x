@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Ovidiu Ciobanu from Romania<br><br>- 📚 I'm currently learning React<br>- 👀 I’m interested in front-end developer.<br>- 📫 How to reach me: alexandruovidiu1999@gmail.com<br>- 💻 My portfolio: https://ovidiual3x.github.io/portfolio</p>
+<p align="left">I'm Ovidiu Ciobanu from Romania<br><br>- 📚 I'm currently learning MERN stack<br>- 👀 I’m interested in front-end developer.<br>- 📫 How to reach me: alexandruovidiu1999@gmail.com<br>- 💻 My portfolio: https://ovidiual3x.github.io/portfolio</p>
 
 ###
 
